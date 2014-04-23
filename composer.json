@@ -1,0 +1,16 @@
+{
+    "name": "lighp/lib-captcha",
+    "description": "A small library to generate captchas.",
+    "license": "GPLv3",
+    "version": "0.2",
+    "type":"lighp-module",
+    "authors": [
+        {
+            "name": "emersion",
+            "email": "contact@emersion.fr"
+        }
+    ],
+    "require": {
+        "lighp/composer-lighp-installers": "dev-master"
+    }
+}
